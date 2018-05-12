@@ -1,0 +1,40 @@
+_repo: Home-is-Where-You-Left-It_32890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Ridgway, Jason
+    - Wilder, Stephen
+    - Lesser, Milton
+    - Chase, Adam
+    - Thames, C. H.
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: In the 22nd century, Earth's natural resources have dwindled to the point
+  of extinction, and as a result, the residents of the planet are on a never-ending
+  quest to find new places to inhabit on other worlds. But some of these planets are
+  already populated by other creatures -- some of whom aren't overly eager to welcome
+  their new neighbors.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Home is Where You Left It
+url: http://www.gutenberg.org/ebooks/32890
